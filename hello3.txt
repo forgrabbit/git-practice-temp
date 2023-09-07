@@ -1,3 +1,0 @@
-Hello3, Git!
-Hello3, GitHub!
-Hello3, GitHub Actions!
